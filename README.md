@@ -16,7 +16,7 @@
 
 ## 🚀 About Me  
 
-Extended reality (XR) is more than just a passion—it's my way of building and exploring alternate worlds. I dive deep into the realms of ***virtual reality (VR)*, ***augmented reality (AR)*, and **mixed reality (MR)* to create immersive experiences that push the boundaries of interaction and storytelling.
+Extended reality (XR) is more than just a passion—it's my way of building and exploring alternate worlds. I dive deep into the realms of *virtual reality (VR)*, *augmented reality (AR)*, and *mixed reality (MR)* to create immersive experiences that push the boundaries of interaction and storytelling.
 
 What’s more intriguing is exploring the integration of Extended reality and the efficiencies of Artificial Intelligence to create Immersive solutions in the Sustainable Environment space and making real world impact. 
 
