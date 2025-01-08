@@ -10,7 +10,7 @@
 
 📍 *Location:* Anywhere VR can take us  
 
-💻 *Profession:* XR Developer | AR/VR Enthusiast | Immersive Tech Advocate  
+💻 *Profession:* XR Developer | AR/VR Enthusiast | AI Tech Advocate  
 
 ---
 
@@ -40,8 +40,6 @@ What’s more intriguing is exploring the integration of Extended reality and th
 ## 🌟 Fun Facts  
 
 - I believe XR is the future of Internet and the future of communication. 
-
-- I love my girlfriend so much Merylin Wuraola Ogunlola (A.K.A Chibi Sage) ❤️😘
 
 - I am more of an AR/MR person than VR
 
